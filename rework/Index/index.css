@@ -1,0 +1,49 @@
+
+.body{
+	width: 716px;
+	height: 1216px;
+	background-image:url("../images/logos/blackGoldWorld.jpg") ;
+
+	margin: 20px auto 20px auto;
+	border-radius: 10px 10px 10px 10px;
+}
+.headerBar{
+	width: 715px;
+	height:40px;
+	background-color:rgb(00, 00, 00);
+	border-radius: 10px 10px 10px 10px;
+	margin: 20px auto 20px auto;
+}
+.headerText{
+	padding-left: 100px;	
+	color: white;
+	margin-left: 15px;	
+	font-family: 'Kanit', sans-serif;
+}
+.toolBarLogo{}
+.ariesFirstLogo{
+	padding-left: 300px;
+	height: 40px;
+	width: 100px;
+}
+.toolBarButton{	
+	height: 30px;
+	width: 100px;
+	margin-left: 97px;
+	background-color: black;
+	border-radius:   10px   10px  10px   10px ;
+}
+.buttonText{
+	color: white;
+}
+.ariesContracts{
+	height: 230px;
+	width: 105px;
+}
+.contractLogos{
+	height: 25px;
+	width: 75px;
+	border-radius: 10px 10px 10px 10px;
+	float: left;
+
+}
